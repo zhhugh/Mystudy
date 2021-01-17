@@ -102,6 +102,8 @@ git remote remove origin
 
 ## 添加远程地址
 
+这里使用ssh链接才行
+
 ```
 git remote add origin https:``//xxxxxxxxxxxx.git
 ```
